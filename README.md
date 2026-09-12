@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1A1A2E&height=200&section=header&text=Nihal%20Darak&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analytics%20Engineer%20%7C%20Data%20Platform%20%26%20Automation&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1A1A2E&height=200&section=header&text=Nihal%20Darak&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analytics%20Engineer%20%7C%20Data%20Platform%20and%20Automation&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/nihaldarak512/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Analytics+Engineer+%40+JPMC;Building+Governed%2C+Self-Serve+Data+Platforms;dbt+%2B+Snowflake+%2B+Airflow%2C+Cloud-Native;Automation-First%2C+Increasingly+AI-Assisted" alt="Typing SVG" />
